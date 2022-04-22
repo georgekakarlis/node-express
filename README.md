@@ -12,7 +12,7 @@
 ### 🛠️ Install
 ```bash
 # Clone the repository
-git clone https://github.com/laporeon/express-ejs-boilerplate
+git clone https://github.com/georgekakarlis/node-express.git
 
 # Install the dependencies
 npm i
@@ -51,4 +51,5 @@ Server will start at port :8000 - access `http://localhost:8000`
 - Nodemon 
 
 --- 
+# node-express
 # node-express
